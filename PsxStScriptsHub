@@ -1,4 +1,3 @@
---// dualhook //--
 local UserInputService = game:GetService("UserInputService")
 UserInputService.MouseBehavior = Enum.MouseBehavior.LockCenter
 
